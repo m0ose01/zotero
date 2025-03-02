@@ -1,0 +1,11 @@
+---
+title: "Zotero Example"
+filters:
+  - zotero
+---
+
+## Heading
+
+This filter adds formatting to heading text.
+
+
